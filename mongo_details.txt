@@ -1,6 +1,0 @@
- website for email used: emailondeck.com
- temp email: olina95@overcomebf.com
- email token: 9e6d5130898b2d27a846688ea2b1087f
- mongo-pass: 2001Spaceodyssey
- 
- mongo user details: uname: sleepturtle pass: 2001Spaceodyssey
